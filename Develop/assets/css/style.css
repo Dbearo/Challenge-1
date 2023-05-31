@@ -51,11 +51,11 @@ p {
 }
 
 .hero {
-    height: 100%;
+    height: 100%;       /*changed height to 100%*/
     width: 100%;
-    margin-bottom: 25px;
+    margin-bottom: 25px;  
     
-    
+    /*Removed all backround elements*/
 }
 
 .float-left {
